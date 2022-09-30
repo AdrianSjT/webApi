@@ -1,0 +1,17 @@
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Web_Service_Amex.exe
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Web_Service_Amex.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Web_Service_Amex.deps.json
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Web_Service_Amex.runtimeconfig.json
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Web_Service_Amex.pdb
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\System.Net.Http.Formatting.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\System.Web.Http.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\Newtonsoft.Json.Bson.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\System.Data.SqlClient.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-arm64\native\sni.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x64\native\sni.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win-x86\native\sni.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\sis-dba-007\source\repos\Web_Service_Amex\obj\Release\netcoreapp3.1\PubTmp\Out\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
